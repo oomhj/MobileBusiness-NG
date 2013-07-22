@@ -1,1 +1,4 @@
 
+[submodule "Frameworks/Three20"]
+	path = Frameworks/Three20
+	url = https://github.com/facebook/three20.git
